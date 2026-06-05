@@ -1,5 +1,7 @@
-![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel)
+![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Data](https://img.shields.io/badge/Data-1470%20employees-blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/katslvb/hr-attrition-analysis)
 
 # HR-аналитика: анализ текучести персонала
 
