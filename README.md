@@ -1,3 +1,6 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # HR-аналитика: анализ текучести персонала
 
 ## О проекте
